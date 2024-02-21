@@ -1,0 +1,16 @@
+This project is made by Iraj, Rohan and Brijesh.
+
+The passwords are:
+
+
+For Admin:
+
+		Username: Admin
+		Password: Admin 
+
+
+For User:
+
+		Username: user
+		Password: user
+
